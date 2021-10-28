@@ -89,9 +89,6 @@ __SELECT OPTION__ :
 <img width="45%" src="https://user-images.githubusercontent.com/49580304/96668019-13a5c400-130f-11eb-9b30-c96a055b7532.jpg"/>
 </p>
 
-## WATCH VIDEO [Termux]
-
-[![des](https://user-images.githubusercontent.com/49580304/96466915-3c2ea080-11df-11eb-8328-100ca165c12c.jpg)](https://rebrand.ly/rcentvideo)
 
 ## CONNECT WITH US :
 
