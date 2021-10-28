@@ -13,21 +13,6 @@
 <a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/monster-lallu-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Monster Lallu KCH-red?style=for-the-badge&logo=Youtube"></a>
 </p>
-<p align="center">
-<a href="https://github.com/noob-hackers"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
-<a href="https://github.com/noob-hackers"><img title="Followers" src="https://img.shields.io/github/followers/noob-hackers?color=blue&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Stars" src="https://img.shields.io/github/stars/noob-hackers/grabcam?color=red&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/grabcam?color=red&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Watching" src="https://img.shields.io/github/watchers/noob-hackers/grabcam?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
-</p>
-
-## ABOUT TOOL :
-
-Grabcam is a bash based script which is officially made for termux from this tool can hack you victims camera by simple offer page. This tool works on both rooted Android device and Non-rooted Android device.
-
-<p align="center"><a href="https://github.com/Monsterlallu"><img title="MonsterLallu" src="https://www.linkpicture.com/q/20211029_002358.jpg"></a>
-</p>
 
 ## AVAILABLE ON :
 
