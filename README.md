@@ -19,7 +19,7 @@
 
 Grabcam is a bash based script which is officially made for termux from this tool can hack you victims camera by simple offer page. This tool works on both rooted Android device and Non-rooted Android device.
 
-<p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://www.linkpicture.com/q/20211029_002358_1.jpg"></a>
+<p align="center"><a href="https://github.com/Monsterlallu"><img title="Noob Hackers" src="https://www.linkpicture.com/q/20211029_002358_1.jpg"></a>
 
 </p>
 
